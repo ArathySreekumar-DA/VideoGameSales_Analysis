@@ -32,27 +32,22 @@ The final outcome will help stakeholders understand **market behavior and perfor
 
 ## 📂 Folder Structure
 
-📁 `sql` → 🧮 All SQL queries  
-📁 `python` → 📊 EDA, visuals (Pandas, Seaborn)  
-📁 `tableau` → 📈 Packaged dashboards (.twbx / screenshots)  
-📁 `data` → 🗃️ Cleaned & raw datasets  
-📁 `project_docs` → 📄 Agile stories, ETL steps, design docs  
-
-
+📁 [`sql`](./sql) → 🧮 All SQL queries  
+📁 [`python`](./python) → 📊 EDA, visuals (Pandas, Seaborn)  
+📁 [`tableau`](./tableau) → 📈 Packaged dashboards (.twbx / screenshots)  
+📁 [`data`](./data) → 🗃️ Cleaned & raw datasets  
+📁 [`project_docs`](./project_docs) → 📄 Agile stories, ETL steps, design docs  
 
 ---
 
 ## 🧠 Status: In Progress (Day 1/30)
 
 🔹 Day 1: GitHub setup complete  
-🔹 Next: Load data into SQL + explore with queries
+🔹 Next: Load data into SQL + explore with queries  
+🔹 Final Tableau Dashboard: _Coming soon on Tableau Public_
 
 Follow this repo as it grows into a **full interview-ready case study**.
 
 ---
 
-🔹 Final Dashboard: _To be published on Tableau Public soon_
-
-
 📌 _Built by [Arathy Sreekumar](https://github.com/ArathySreekumar-DA)_
-
